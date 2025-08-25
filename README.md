@@ -10,7 +10,7 @@ It demonstrates the basic structure of web pages using HTML.
 - Beginner-friendly code for learning basics
 ## How to View
 1. Download or clone this repository.
-2. Open the `Web page ITI.html` file in any web browser (Chrome, Edge, Firefox).
+2. Open the `index.html` file in any web browser (Chrome, Edge, Firefox).
 3. Explore the pages to learn fundamental HTML concepts.
 
 ---
